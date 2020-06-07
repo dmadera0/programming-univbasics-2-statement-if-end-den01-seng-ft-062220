@@ -1,3 +1,3 @@
-if true( 1<5 )
+if true{ i<5}
  puts"This code runs!"
  end
