@@ -1,3 +1,5 @@
-if true i<5
- puts"This code runs!"
- end
+if (something that is either true or false)
+  if true
+    puts "This code runs!"
+  end
+  
