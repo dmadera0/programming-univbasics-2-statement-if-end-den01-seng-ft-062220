@@ -1,3 +1,3 @@
-if true <colorado is a state >
- puts "This code runs!"
+if true < colorado is a state >
+ puts"This code runs!"
  end
